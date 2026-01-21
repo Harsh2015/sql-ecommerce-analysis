@@ -1,4 +1,4 @@
-# 📊 SQL Analysis Practice – E-Commerce Dataset
+# 📊 SQL Analysis Practice(E-Commerce Dataset)
 
 ## 📌 Overview
 This repository contains my hands-on SQL practice using a real-world **E-Commerce dataset**.  
